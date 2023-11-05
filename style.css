@@ -67,7 +67,7 @@ img{
 
 @media only screen and (max-width:1920px){ .if{height:100%;}}
 @media only screen and (max-width:1600px){ .if{height:100%;}}
-@media only screen and (max-width:1366px){ .if{height:5000px;}}
+@media only screen and (max-width:1333px){ .if{height:1500px;}}
 @media only screen and (max-width:1280px){ .if{height:1300px;}}
 @media only screen and (max-width:950px){ .if{height:1050px;}}
 @media only screen and (max-width:600px){ .if{height:800px;}}
