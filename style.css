@@ -70,5 +70,5 @@ img{
 @media only screen and (max-width:1366px){ .if{height:100%;}}
 @media only screen and (max-width:1280px){ .if{height:100%;}}
 @media only screen and (max-width:950px){ .if{height:100%;}}
-@media only screen and (max-width:600px){ .if{height:650px;}}
+@media only screen and (max-width:600px){ .if{height:800px;}}
 @media only screen and (max-width:300px){ .if{height:550px;}}
