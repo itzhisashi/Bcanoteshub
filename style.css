@@ -65,7 +65,7 @@ img{
   padding-left: 10px;
 }
 
-@media only screen and (max-width:1920px){ .if{height:900px;}}
+@media only screen and (max-width:1920px){ .if{height:1050px;}}
 @media only screen and (max-width:1600px){ .if{height:2000px;}}
 @media only screen and (max-width:1333px){ .if{height:1500px;}}
 @media only screen and (max-width:1280px){ .if{height:1300px;}}
