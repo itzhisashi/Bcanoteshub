@@ -1,0 +1,74 @@
+:root {
+  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-primary: "Amatic SC", sans-serif;
+  --font-secondary: "Inter", sans-serif;
+}
+
+/* Colors */
+:root {
+  --color-default: #101318;
+  --color-primary: #fff;
+  --color-secondary: #146ffc;
+}
+
+/* Smooth scroll behavior */
+:root {
+  scroll-behavior: smooth;
+}
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+*{
+margin-left:0.8px;
+}
+body {
+  font-family: var(--font-default);
+  background-color: var(--color-default);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: var(--color-secondary);
+  text-decoration: none;
+  transition: ease-in-out 0.5s;
+}
+img{
+  height: 40px;
+  border-radius: 50%;
+}
+.head{
+  margin: 15px 0 15px 5px;
+}
+.logo-t{
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+}
+.if{
+  border-color: #000;
+  background-color: #202938;
+}
+.lf{
+  float:left;
+}
+.tl{
+  font-size: 18px;
+  float: right;
+  line-height: 1px;
+  padding-left: 10px;
+}
+
+@media only screen and (max-width:1920px){ .if{height:100%;}}
+@media only screen and (max-width:1600px){ .if{height:100%;}}
+@media only screen and (max-width:1366px){ .if{height:100%;}}
+@media only screen and (max-width:1280px){ .if{height:100%;}}
+@media only screen and (max-width:950px){ .if{height:100%;}}
+@media only screen and (max-width:600px){ .if{height:600px;}}
+@media only screen and (max-width:300px){ .if{height:500px;}}
