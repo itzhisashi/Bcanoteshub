@@ -59,3 +59,28 @@
   transition: 0.5s;
 }
 .shadow-wrap-link{-webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1); box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1); background: transparent;}
+.info .info-item {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  position: relative;
+}
+
+.info .info-item h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #00D7AE;
+  margin-bottom: 10px;
+}
+
+.info .info-item h5 {
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+    }
