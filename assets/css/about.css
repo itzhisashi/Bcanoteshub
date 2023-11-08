@@ -27,4 +27,5 @@
   box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
   background: transparent;
   }
-
+.about-card-all h3{font-size:20px; color:lightcyan; padding: 10px 0px 20px 10px;}
+.about-card-all h3 span{border-bottom:1.5px solid #146ffc;}
