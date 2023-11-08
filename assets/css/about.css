@@ -4,7 +4,6 @@
   padding-top: 20px;
   padding-bottom: 40px;
 }
-
 .portfolio-details .portfolio-title {
   font-size: 26px;
   font-weight: 700;
@@ -12,3 +11,19 @@
   margin-right: 30px;
   margin-left: 30px;
   }
+.adjust{padding:16px;}
+text-white {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+  }
+.shadow-wrap {
+   width: 116px;
+   height: 116px;
+   border-radius: 50%;
+   border: 0.5px solid #000;
+  -webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
+  box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
+  background: transparent;
+  }
+
