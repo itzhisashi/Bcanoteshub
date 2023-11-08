@@ -14,8 +14,9 @@
 .adjust{padding:16px;}
 .text-white {
     font-size: 16px;
-    margin-top: 25px;
+    margin-top: 10px;
     font-weight: 500;
+    padding-top: 16px;
   }
 .shadow-wrap {
    width: 116px;
