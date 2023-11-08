@@ -1,1 +1,60 @@
 
+.btn{
+     background-color: transparent;
+     color: #fff;
+     border: none;
+     display: flex;
+     margin-right: 9px;
+     opacity: .6;
+     transition: all linear .2s;
+   }
+
+.btn:hover{
+    opacity: 1;
+    width: 20;
+    height: 30;
+  }
+
+.play-pause {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+.active svg path {
+    fill: #cc7e85;
+}
+
+.aurg{
+  background-color: transparent ;
+  opacity: .5;
+  align-items: center;
+  margin-right: -5px;
+  }
+
+.aurg:hover{
+  opacity: 1;
+}
+
+.sz {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  line-height: 1;
+  margin-right: 9px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.sz:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+  transform: scale(1.1);
+  transition: 0.5s;
+}
