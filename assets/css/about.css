@@ -73,7 +73,7 @@
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   color: #fff;
-  padding: 20px;
+  padding: 20px 0 20px 0;
   margin-bottom: 10px;
 }
 .info .info-item h4 span{border-bottom:1.5px solid #146ffc;}
