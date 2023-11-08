@@ -68,12 +68,12 @@
 
 .info .info-item h4 {
   line-height: 18px;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 650;
   /*text-transform: uppercase;*/
   font-family: "Poppins", sans-serif;
   color: lightcyan;
-  padding: 20px 0 20px 0;
+  padding: 20px 0 20px 20px;
   margin-bottom: 10px;
 }
 .info .info-item h4 span{border-bottom:1.5px solid #146ffc;}
