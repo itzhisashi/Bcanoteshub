@@ -4,7 +4,6 @@
   padding-top: 20px;
   padding-bottom: 40px;
 }
-.card-a-o{background-color: rgba( 36, 36, 33, 0.5); color:#fff; width: auto; height: auto;border-radius: 5px;}
 .portfolio-details .portfolio-title {
   font-size: 26px;
   font-weight: 700;
@@ -27,5 +26,6 @@
   box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
   background: transparent;
   }
+.about-card-all{background-color: rgba( 36, 36, 33, 0.5); color:#fff; width: auto; height: auto;border-radius: 5px;}
 .about-card-all h3{font-size:20px; color:lightcyan; padding: 10px 0px 20px 10px;}
 .about-card-all h3 span{border-bottom:1.5px solid #146ffc;}
