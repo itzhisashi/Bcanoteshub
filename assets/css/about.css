@@ -4,6 +4,7 @@
   padding-top: 20px;
   padding-bottom: 40px;
 }
+.card-a-o{background-color: rgba( 36, 36, 33, 0.5); width: auto; height: auto;border-radius: 5px;}
 .portfolio-details .portfolio-title {
   font-size: 26px;
   font-weight: 700;
