@@ -60,7 +60,7 @@
 }
 .shadow-wrap-link{-webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1); box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1); background: transparent;}
 .info .info-item {
-  padding: 0 0 20px 20px;
+  padding: 0 20px 20px 20px;
   margin-top: -2px;
   border-left: 2px solid rgba(20, 111, 252, 0.8);
   position: relative;
