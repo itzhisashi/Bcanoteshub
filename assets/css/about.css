@@ -62,7 +62,7 @@
 .info .info-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  border-left: 2px solid rgba(20, 111, 252, 0.2);
   position: relative;
 }
 
@@ -72,7 +72,7 @@
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #00D7AE;
+  color: #fff;
   padding: 20px
   margin-bottom:10px;
 }
