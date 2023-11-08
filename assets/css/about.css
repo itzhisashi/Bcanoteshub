@@ -26,7 +26,7 @@
   box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
   background: transparent;
   }
-.about-card-all{background-color: rgba( 32, 41, 56, 0.8); color:#fff; width: auto; height: auto;border-radius: 5px;}
+.about-card-all{background-color: rgba( 27, 28, 31, 0.8); color:#fff; width: auto; height: auto;border-radius: 5px;}
 .about-card-all h3{font-weight:650;font-size:20px; color:lightcyan; padding: 20px 0px 20px 20px;}
 .about-card-all h3 span{border-bottom:1.5px solid #146ffc;}
 .about-card-all .icon-box{
