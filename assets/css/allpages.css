@@ -1,3 +1,4 @@
+/***************** About Us Style ****************/
 .layout_top__2MUJK { background-image: linear-gradient(rgba(27, 28, 31, 0.9), rgba(27, 28, 31, 0.05), rgb(27, 28, 31)); background-repeat: no-repeat; background-size: cover; width: auto; margin-top: 0px; margin-bottom: 25px; z-index: 100; border-radius: 0.5rem; color: rgb(234,234,234);}
 .card-a { background-color: rgba( 36, 36, 33, 0); width: auto; height: auto; border-radius: 5px; margin: 25px;}
 .portfolio-details .container {
@@ -96,4 +97,25 @@
   padding: 20px;
   width: 100%;
   background: rgba(255, 255, 255, 0.08);
+}
+.info .info-box i.bx {
+  font-size: 24px;
+  color: #00D7AE;
+  border-radius: 50%;
+  padding: 14px;
+  float: left;
+  background: rgba(255, 255, 255, 0.1);
+}
+.info .info-box h5 {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+  margin: 10px 0 8px 68px;
+}
+.info .info-box p {
+  padding: 0;
+  color: #fff;
+  line-height: 24px;
+  font-size: 14px;
+  margin: 0 0 0 68px;
 }
