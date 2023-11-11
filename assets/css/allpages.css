@@ -96,12 +96,12 @@
 .info .info-box {
   color: #444444;
   padding: 20px;
-  width: 100%;
+  width: auto;
   background: rgba(255, 255, 255, 0.08);
 }
 .info .info-box i.bx {
   font-size: 24px;
-  color: #00D7AE;
+  color: #146ffc;
   border-radius: 50%;
   padding: 14px;
   float: left;
