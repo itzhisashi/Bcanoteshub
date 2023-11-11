@@ -94,6 +94,7 @@
 /**************** Contact Style *****************/
 .info .info-box-iflex {display:inline-flex;width:auto;height:auto; background: transparent;}
 .info .info-box {
+  align-items: center;
   color: #444444;
   padding: 20px;
   width: auto;
