@@ -93,3 +93,11 @@
     }
 /**************** Contact Style *****************/
 .info-box { display: inline-box;width:auto;height:auto;align-items:center;}
+.info-box i.bx{
+  font-size: 24px;
+  color: #146ffc;
+  border-radius: 5px;
+  padding: 14px;
+  float: left;
+  background: rgba(255, 255, 255, 0.1);
+}
