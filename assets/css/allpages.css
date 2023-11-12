@@ -93,6 +93,7 @@
     }
 /**************** Contact Style *****************/
 .info .info-box {
+  align-items: center;
   color: #444444;
   display: inline-flex;
   padding: 20px;
