@@ -92,11 +92,13 @@
   margin: 10px 0;
     }
 /**************** Contact Style *****************/
-.info .info-box-iflex {display:inline-flex;align-items:center;width:auto;height:auto; background: transparent;}
+.info .info-box-iflex {align-items:center;width:auto;height:auto; background: transparent;}
 .info .info-box {
   color: #444444;
   padding: 20px;
-  width: 150px;
+  width: auto;
+  height:auto;
+  display: inline-flex;
   border-radius: 5px;
   margin: 10px;
   background: rgba(255, 255, 255, 0.08);
