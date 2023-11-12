@@ -92,7 +92,7 @@
   margin: 10px 0;
     }
 /**************** Contact Style *****************/
-.info-box { display: inline-box;width:auto;height:auto;align-items:center;}
+.info-box {color: #444444;padding: 20px;width: 100%;background: rgba(255, 255, 255, 0.08);}
 .info-box i.bx{
   font-size: 24px;
   color: #146ffc;
@@ -101,3 +101,14 @@
   float: left;
   background: rgba(255, 255, 255, 0.1);
 }
+.info-box h5{
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+  margin: 10px 0 8px 68px;}
+info-box p{
+  padding: 0;
+  color: #fff;
+  line-height: 24px;
+  font-size: 14px;
+  margin: 0 0 0 68px;}
