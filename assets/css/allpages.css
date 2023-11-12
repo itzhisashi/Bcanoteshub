@@ -92,4 +92,4 @@
   margin: 10px 0;
     }
 /**************** Contact Style *****************/
-
+.info-box { display: inline-box;width:auto;height:auto;align-items:center;}
