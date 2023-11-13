@@ -93,7 +93,7 @@
     }
 /**************** Contact Style *****************/
 .info-box {color: #444444;margin:15px 10px;padding: 20px;width: auto;height:auto;background: rgba(255, 255, 255, 0.08);}
-.info-d{display: flex;flex-wrap: wrap;padding:0.5px;}
+.info-d{display: flex;flex-wrap: wrap;}
 .info-box i.bx{
   font-size: 24px;
   color: #146ffc;
