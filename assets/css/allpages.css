@@ -120,7 +120,8 @@
 
 .info-box .social-links a {
   font-size: 20px;
-  display: inline-block;
+  display: flex;
+  flex-wrap:wrap;
   color: #fff;
   line-height: 1;
   margin-right: 12px;
