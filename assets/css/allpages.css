@@ -129,5 +129,5 @@
 .info-box .social-links a:hover {
   color: #146ffc;
 }
-
-.d-link{color:fff;line-height:1;margin-right:12px;transition:0.3s;}.d-link{color:#146ffc;}
+.dl{color:fff;line-height:1;margin-right:12px;transition:0.5s;}
+.dl:hover{color:#146ffc;transition:0.3s}
