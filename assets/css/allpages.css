@@ -96,7 +96,7 @@
 .info-d{display: flex;flex-wrap: wrap;}
 .info-box i.bx{
   font-size: 24px;
-  color: #146ffc;
+  color: #37a9e5;
   border-radius: 5px;
   padding: 3px 10px 5px 10px;
   float: left;
@@ -127,7 +127,7 @@
 }
 
 .info-box .social-links a:hover {
-  color: #146ffc;
+  color: #37a9e5;
 }
 .dl{color:fff;line-height:1;margin-right:12px;transition:0.5s;}
 .dl:hover{color:#146ffc;transition:0.3s}
