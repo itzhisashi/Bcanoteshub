@@ -19,7 +19,7 @@
     font-weight: 500;
   }
 .shadow-wrap {
-   width: 116px;
+   width: auto;
    height: 116px;
    border-radius: 50%;
    border: 0.5px solid #000;
