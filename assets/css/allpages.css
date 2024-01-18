@@ -19,8 +19,8 @@
     font-weight: 500;
   }
 .shadow-wrap {
-   width: 116vh;
-   height: 116vh;
+   width: 116px;
+   height: 116px;
    border-radius: 50%;
    border: 0.5px solid #000;
   -webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 1);
