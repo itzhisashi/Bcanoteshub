@@ -159,8 +159,10 @@
               }
 .all-r .report-box .social-links a {
   font-size: 18px;
-  color: #fff;
+  color: #146ffc;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
 }
+.all-r .report-box .social-links a:hover {
+  color: #37a9e5;}
