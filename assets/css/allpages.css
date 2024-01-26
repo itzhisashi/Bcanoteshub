@@ -142,18 +142,25 @@
   float: left;
   background: rgba(255, 255, 255, 0.1);
 }
-all-r.report-box h5{
+.all-r.report-box h5{
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
   font-weight: 700;
   margin: 10px 0 8px 68px;}
-all-r .report-box p{
+.all-r .report-box p{
   padding: 0;
   color: #fff;
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;}
-all-r .report-box .social-links {
+.all-r .report-box .social-links {
   margin: 5px 0 0 68px;
   display: flex;
               }
+.all-r .report-box .social-links a {
+  font-size: 18px;
+  color: #fff;
+  line-height: 1;
+  margin-right: 12px;
+  transition: 0.3s;
+}
