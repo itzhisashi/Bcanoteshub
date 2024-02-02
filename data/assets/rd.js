@@ -12,14 +12,14 @@ function animateValue(obj, start, end, duration) {
 }
 
 const obj = document.getElementById("value");
-animateValue(obj, 30, 0, 31000);
+animateValue(obj, 20, 0, 21000);
 
 /*------- Show element -------*/
 const el = document.getElementById('loader');
 
 setTimeout(() => {
   el.style.display = 'block';
-}, 31000);
+}, 21000);
 
 /*------- Hide element-------*/
 setTimeout(() => {
