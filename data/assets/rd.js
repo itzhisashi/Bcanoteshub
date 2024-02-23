@@ -12,14 +12,14 @@ function animateValue(obj, start, end, duration) {
 }
 
 const obj = document.getElementById("value");
-animateValue(obj, 20, 0, 21000);
+animateValue(obj, 25, 0, 26000);
 
 /*------- Show element -------*/
 const el = document.getElementById('loader');
 
 setTimeout(() => {
   el.style.display = 'block';
-}, 21000);
+}, 26000);
 
 /*------- Hide element-------*/
 setTimeout(() => {
@@ -30,7 +30,7 @@ setTimeout(() => {
 
   // 👇️ hides element (still takes up space on page)
   // box.style.visibility = 'hidden';
-}, 21000);
+}, 26000);
 
 function myfun(){
       var x = document.getElementById("myDIV");
