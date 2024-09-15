@@ -224,7 +224,7 @@ img {
   border-radius:5px;
 }
 .table-d .features .icon-box{
-  background:rgba(255, 255, 255, 0.08);
+  background:rgba(0, 0, 0, 0.8);
   display:block;
   /*align-items:center;*/
   padding:8px 0px;
