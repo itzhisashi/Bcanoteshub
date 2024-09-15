@@ -191,7 +191,7 @@ img {
 .card2 {
     background: rgba( 36, 36, 33, 0.65);
     width: auto;
-    height: 100%;
+    height: auto;
     border-radius: 10px;
     margin: 16px;
     margin-top: 5px;
