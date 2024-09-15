@@ -188,3 +188,14 @@ img {
   border: 2px solid #146ffc;
 }
 /* End */
+.card2 {
+    background: rgba( 36, 36, 33, 0.9);
+    width: auto;
+    height: 100%;
+    border-radius: 10px;
+    margin: 16px;
+    margin-top: 5px;
+    padding-bottom: 25px;
+    margin-bottom: 46px;
+    /*opacity: 0.05;*/
+}
