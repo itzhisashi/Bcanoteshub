@@ -217,26 +217,7 @@ img {
   }
 .btn-top{
   margin-top: 40px;
-  }
-.btn-solid-lg-2 {
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  padding: 1.1rem 0.8rem;
-  margin: 6px;
-  border-radius: 4px;
-  background-color: #444444;
-  color: #fff;
-  font: 900 0.85rem/0 "Montserrat", sans-serif;
-  transition: 0.4s;
 }
-
-.btn-solid-lg-2:hover {
-  background-color: rgba(0, 159, 144, 0.8);
-  color: #fff;
-  transform: scale(0.95);
-  transition: 0.5s;
-  }
 .table-d .features{
   padding-top:10px;
   margin:10px 0px;
