@@ -237,7 +237,7 @@ img {
 	transform: scale(0.95);
   transition: 0.5s;
   }
-table-d .features{
+.table-d .features{
   padding-top:10px;
   margin:10px 0px;
   border-radius:5px;
