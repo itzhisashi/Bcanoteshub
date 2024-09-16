@@ -254,9 +254,9 @@ img {
   padding:0 0 0 5px;
   font-size:16px;
 }
-.table-d .features .icon-box i:hover{
+/*.table-d .features .icon-box:hover{
   color:#000;
-}
+}*/
 .table-d .features .icon-box:hover{
   background:rgba(0, 215, 195, 1);
   border-color:lavender;
