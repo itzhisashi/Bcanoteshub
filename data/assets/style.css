@@ -254,15 +254,15 @@ img {
   padding:0 0 0 5px;
   font-size:16px;
 }
-/*.table-d .features .icon-box:hover{
+.table-d .features .icon-box i:hover{
   color:#000;
-}*/
+}
 .table-d .features .icon-box:hover{
   background:rgba(0, 215, 195, 1);
   border-color:lavender;
   transform:scale(0.99);
   transition:0.5s;
-  color:#000;
+  color:#fff;
   -webkit-box-shadow:0 0px 0px 0 rgba(0, 0, 0, 0);
   box-shadow:0 0px 0px 0 rgba(0, 0, 0, 0);
 }
