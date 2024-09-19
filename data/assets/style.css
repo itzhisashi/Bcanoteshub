@@ -232,12 +232,12 @@ img {
   margin:20px 0px 20px 0px;
   border-radius:5px;
   transition:0.5s;
-  border:1.5px solid #00d7c3;
+  border:1.5px solid #4990fc;
   transition:ease-in-out 0.3s;
   width:230px;
   /**/
-  -webkit-box-shadow:0 0px 15px 0 rgba(0, 215, 195, 0.6);
-  box-shadow:0 0px 15px 0 rgba(0, 215, 195, 0.6);
+  -webkit-box-shadow:0 0px 15px 0 rgba(73, 144, 252, 0.6);
+  box-shadow:0 0px 15px 0 rgba(73, 144, 252, 0.6);
 }
 .table-d .features .icon-box i{
   font-size: 25px;
@@ -258,7 +258,7 @@ img {
   color:#000;
 }*/
 .table-d .features .icon-box:hover{
-  background:rgba(0, 215, 195, 1);
+  background:rgba(73, 144, 252, 1);
   border-color:lavender;
   transform:scale(0.99);
   transition:0.5s;
